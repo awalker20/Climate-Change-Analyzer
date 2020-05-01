@@ -891,7 +891,7 @@ String fileName = "data/world_temp_2000-2016.csv";
 		while(!ca.isValidYear(year2)) {
 			
 			System.out.println("Please enter a valid year(2000-2016): ");
-			year1 = in.nextInt();
+			year2 = in.nextInt();
 		}
 		in.nextLine();
 		
